@@ -26,4 +26,6 @@
  3. If population falls down below 1 crore then display it as 'green'.
  4. If population falls between below 1-2 crore then display it as 'orange'.
  5. If population goes above 2 crore then display it as 'red'.
+ 
+ - Skills Used: python, pandas, folium
 
